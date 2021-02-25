@@ -1,6 +1,8 @@
 # Introduction to Deep Learning (IN2346)
 # Technical University Munich - WS 2021
 
+This is my implementation of the exercises for the course (Introduction to Deep Learning) that I took at TUM. The original exercise content and other related materials can be found at https://niessner.github.io/I2DL/
+
 ## 1. Python Setup
 
 Prerequisites:
